@@ -76,6 +76,7 @@ h1 {
     height: 30px;
     text-align: center;
     padding-top: 2%;
+    cursor: pointer;
 }
 
 .grid {
